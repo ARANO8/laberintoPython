@@ -1,0 +1,1097 @@
+('E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+ 'Diseño\\laberinto\\build\\main\\main.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('main',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de Diseño\\laberinto\\main.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('libjpeg-9.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('freetype.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('libmodplug-1.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libmodplug-1.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\imageext.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\scrap.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\mixer.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\mixer_music.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\font.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\_freetype.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\transform.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\time.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\pixelarray.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\mask.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\surface.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\pixelcopy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\mouse.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\key.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\joystick.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\image.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\event.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\draw.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\display.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\math.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\bufferproxy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\color.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\surflock.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\rwobject.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\rect.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\constants.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp312-win_amd64.pyd',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\base.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('pygame\\libopus-0.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('pygame\\libogg-0.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('pygame\\libjpeg-9.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('pygame\\zlib1.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\DADJZ\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('pygame\\libpng16-16.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('pygame\\SDL2_image.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('pygame\\SDL2_mixer.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('pygame\\SDL2_ttf.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('pygame\\freetype.dll',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-17\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-17\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('assets\\autotiles\\Chão (4).png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\autotiles\\Chão (4).png',
+   'DATA'),
+  ('assets\\images\\Jogador.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\Jogador.png',
+   'DATA'),
+  ('assets\\images\\Object tree 2.PNG',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\Object tree 2.PNG',
+   'DATA'),
+  ('assets\\images\\credits5.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\credits5.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_000_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_000_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_001_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_001_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_002_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_002_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_003_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_003_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_004_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_004_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_005_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_005_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_006_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_006_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_007_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_007_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_008_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_008_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_009_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_009_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_010_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_010_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_011_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_011_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_012_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_012_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_013_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_013_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_014_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_014_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_015_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_015_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_016_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_016_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_017_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_017_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_018_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_018_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_019_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_019_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_020_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_020_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_021_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_021_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_022_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_022_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_023_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_023_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_024_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_024_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_025_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_025_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_026_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_026_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_027_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_027_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_028_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_028_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_029_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_029_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_030_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_030_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_031_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_031_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_032_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_032_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_033_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_033_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_034_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_034_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_035_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_035_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_036_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_036_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_037_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_037_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_038_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_038_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_039_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_039_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_040_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_040_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_041_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_041_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_042_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_042_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_043_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_043_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_044_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_044_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_045_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_045_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_046_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_046_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_047_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_047_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_048_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_048_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_049_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_049_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_050_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_050_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_051_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_051_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_052_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_052_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_053_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_053_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_054_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_054_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_055_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_055_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_056_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_056_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_057_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_057_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_058_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_058_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_059_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_059_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_060_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_060_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_061_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_061_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_062_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_062_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_063_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_063_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_064_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_064_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_065_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_065_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_066_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_066_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_067_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_067_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_068_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_068_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_069_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_069_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_070_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_070_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_071_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_071_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_072_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_072_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_073_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_073_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_074_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_074_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_075_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_075_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_076_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_076_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_077_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_077_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_078_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_078_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_079_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_079_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_080_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_080_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_081_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_081_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_082_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_082_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_083_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_083_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_084_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_084_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_085_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_085_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_086_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_086_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_087_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_087_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_088_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_088_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_089_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_089_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_090_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_090_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_091_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_091_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_092_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_092_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_093_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_093_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_094_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_094_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_095_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_095_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_096_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_096_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_097_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_097_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_098_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_098_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_099_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_099_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_100_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_100_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_101_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_101_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_102_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_102_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_103_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_103_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_104_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_104_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_105_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_105_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_106_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_106_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_107_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_107_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_108_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_108_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_109_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_109_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_110_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_110_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_111_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_111_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_112_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_112_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_113_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_113_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_114_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_114_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_115_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_115_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_116_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_116_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_117_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_117_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_118_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_118_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_119_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_119_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_120_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_120_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_121_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_121_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_122_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_122_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_123_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_123_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_124_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_124_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\enemy_frames\\frame_125_delay-0.06s.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\enemy_frames\\frame_125_delay-0.06s.png',
+   'DATA'),
+  ('assets\\images\\headbutt.PNG',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\headbutt.PNG',
+   'DATA'),
+  ('assets\\images\\pokelogo (low res).png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\pokelogo (low res).png',
+   'DATA'),
+  ('assets\\images\\pokelogo.png',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\images\\pokelogo.png',
+   'DATA'),
+  ('assets\\levels\\level1.txt',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\levels\\level1.txt',
+   'DATA'),
+  ('assets\\levels\\level2.txt',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\levels\\level2.txt',
+   'DATA'),
+  ('assets\\music\\Darkrai.mp3',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\music\\Darkrai.mp3',
+   'DATA'),
+  ('assets\\music\\intro.mp3',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\music\\intro.mp3',
+   'DATA'),
+  ('assets\\sounds\\flying.wav',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\sounds\\flying.wav',
+   'DATA'),
+  ('assets\\sounds\\steps.wav',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\assets\\sounds\\steps.wav',
+   'DATA'),
+  ('base_library.zip',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\build\\main\\base_library.zip',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'E:\\Alan\\Estudios\\Universidad\\Fundamentos de '
+   'Diseño\\laberinto\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
